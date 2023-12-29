@@ -14,7 +14,7 @@ const Hero = () => {
         <img src={gg} alt="sumz_logo" className="w-28 object-contain" />
         <button
           type="button"
-          onClick={() => window.open("https://github.com/")}
+          onClick={() => window.open("https://github.com/im-atharva/sumz")}
           className="text-gray-900 bg-white border border-gray-300 focus:outline-none focus:ring-gray-200 font-medium rounded-full text-sm px-5 py-1.5 mr-2 mb-2 dark:bg-gray-800 dark:text-white dark:hover:bg-gray-700 dark:hover:border-gray-600"
         >
           GitHub
